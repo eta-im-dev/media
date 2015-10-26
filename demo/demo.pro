@@ -15,5 +15,6 @@ INCLUDEPATH += ../psimedia
 #include(../gstprovider/gstprovider.pri)
 
 SOURCES += main.cpp
+HEADERS += main.h
 
 FORMS += mainwin.ui config.ui
